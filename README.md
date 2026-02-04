@@ -2,8 +2,7 @@
 
 HyperOS长按控制中心锁屏磁贴打开系统电源菜单
 
-https://www.coolapk.com/u/1993450
-https://github.com/PXIAOHE/HyperClick
+[Github Release]https://github.com/PXIAOHE/HyperClick
 
 ## 功能
 
