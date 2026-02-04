@@ -24,3 +24,5 @@ HyperOS长按控制中心锁屏磁贴打开系统电源菜单
 
 ## 下载
 [Github Release](https://github.com/PXIAOHE/HyperClick/releases)
+
+[Github Release](https://github.com/Xposed-Modules-Repo/com.xiaohe.hyperclick/releases)
