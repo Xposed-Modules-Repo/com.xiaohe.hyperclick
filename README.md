@@ -24,7 +24,3 @@ HyperOS长按控制中心锁屏磁贴打开系统电源菜单
 
 ## 下载
 [Github Release](https://github.com/PXIAOHE/HyperClick/releases)
-
-## License
-
-This project is licensed under the [GNU General Public Licence, version 3](https://choosealicense.com/licenses/gpl-3.0/).
